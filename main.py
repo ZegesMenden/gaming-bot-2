@@ -239,4 +239,4 @@ async def role(ctx):
             defaultrole = role
     await ctx.message.author.add_roles(defaultrole)
 
-bot.run('NzM4NDk4MzA3MDIxNzM0MDcw.XyMyJQ.bjwFQi5CR76xJAzgIamXMx0Qbjw')
+bot.run('key')

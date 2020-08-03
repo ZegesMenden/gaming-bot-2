@@ -1,4 +1,4 @@
-#GAMING BOT 2 VERSION 0.2.7 IN DEVELOPMENT
+#GAMING BOT 2 VERSION 0.2.X IN DEVELOPMENT
 #PATCH NOTES
 #0.1 started bot, added:
 #on member join dm
